@@ -7,7 +7,7 @@
 
 ## Info of the Files
 1. gpl.txt and license.txt include licensing information.
-2. LU.cpp, Jacobi.cpp and GetMatrix.cpp are source codes.
+2. mkl_solver.cpp are source codes.
 
 ## Other Info
 Please check the report to get more information of the project.
